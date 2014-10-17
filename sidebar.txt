@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vkl:home|Door43 (vkl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vkl|d43-vkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vkl/archive/master.zip|d43-vkl.zip]]
+
+**Recent Changes**
+{{changes>ns = vkl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vkl|Ethnologue data]]
+
